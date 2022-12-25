@@ -3,7 +3,8 @@
         "allowJs": true,
         "checkJs": true,
         "outDir": "build",
-        "target": "ES6"
+        "target": "ES6",
+        "module": "CommonJS"
     },
     "include": ["src/**/*"]
 }
